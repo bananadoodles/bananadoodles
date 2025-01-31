@@ -4,12 +4,17 @@ My name is Erin and I am a seasoned data professional with over 5 years of exper
 Check out my [LinkedIn](www.linkedin.com/in/erin-blake-17a5aa167).
 
 ### Skills :woman_dancing:
-#### **Programming Languages:** R, Python, SQL\
-#### **Data Warehouse and Version Control:** Snowflake, Git, DataGrip, Jira, DBT\
-#### **Predictive Modeling:** Statistical Inference, Regression, Neural Networks, Time Series, Machine Learning,\
-#### Clustering, Optimization, Risk Simulation, XGBoost, Random Forest\
-#### **Business Systems:** Salesforce, NetSuite, Bizible, Pendo, Zendesk\
-#### **BI Tools:** DOMO, Tableau\
+#### **Programming Languages:** 
+R, Python, SQL
+#### **Data Warehouse and Version Control:**
+Snowflake, Git, DataGrip, Jira, DBT
+#### **Predictive Modeling:** 
+Statistical Inference, Regression, Neural Networks, Time Series, Machine Learning,
+Clustering, Optimization, Risk Simulation, XGBoost, Random Forest
+#### **Business Systems:**
+Salesforce, NetSuite, Bizible, Pendo, Zendesk
+#### **BI Tools:** 
+DOMO, Tableau
 
 ### EDUCATION												
 M.S. in Analytics: Institute for Advanced Analytics, NC State University (_May 2025_)\
