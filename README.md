@@ -4,18 +4,17 @@ My name is Erin and I am a seasoned data professional with over 5 years of exper
 Check out my [LinkedIn](www.linkedin.com/in/erin-blake-17a5aa167).
 
 ### Skills :woman_dancing:
-**Programming Languages:** (_R, Python, SQL_)
-**Data Warehouse and Version Control:** (_Snowflake, Git, DataGrip, Jira, DBT_)
-**Predictive Modeling:** (_Statistical Inference, Regression, Neural Networks, Time Series, Machine Learning,_)
-(_Clustering, Optimization, Risk Simulation, XGBoost, Random Forest_)
-**Business Systems:** (_Salesforce, NetSuite, Bizible, Pendo, Zendesk_)
-**BI Tools:** (_DOMO, Tableau_)
+**Programming Languages:** (_R, Python, SQL_)\
+**Data Warehouse and Version Control:** (_Snowflake, Git, DataGrip, Jira, DBT_)\
+**Predictive Modeling:** (_Statistical Inference, Regression, Neural Networks, Time Series, Machine Learning,_)\
+(_Clustering, Optimization, Risk Simulation, XGBoost, Random Forest_)\
+**Business Systems:** (_Salesforce, NetSuite, Bizible, Pendo, Zendesk_)\
+**BI Tools:** (_DOMO, Tableau_)\
 
 ### EDUCATION												
-M.S. in Analytics: Institute for Advanced Analytics, NC State University (_May 2025_)\
-B.S., Business Administration: NC State University (_Dec 2019_)\
-(_summa cum laude_)\
-A.S., Dental Hygiene: Wayne Community College (_May 2008_) (_yes you read that right_)\
+M.S. in Analytics: Institute for Advanced Analytics, NC State University **May 2025**\
+B.S., Business Administration: NC State University,(_summa cum laude_) **Dec 2019**\
+A.S., Dental Hygiene: Wayne Community College (_yes you read that right_) **May 2008** 
 
 ### Projects
 🤖Machine Learning
