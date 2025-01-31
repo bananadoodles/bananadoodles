@@ -5,10 +5,10 @@ Check out my [LinkedIn](www.linkedin.com/in/erin-blake-17a5aa167).
 
 ### Skills :woman_dancing:
 **Programming Languages:** _R, Python, SQL_\
-**Data Warehouse and Version Control:** _Snowflake, Git, DataGrip, Jira, DBT_
-**Predictive Modeling:** _Statistical Inference, Regression, Neural Networks, Time Series, Machine Learning,_
-_Clustering, Optimization, Risk Simulation, XGBoost, Random Forest_
-**Business Systems:** _Salesforce, NetSuite, Bizible, Pendo, Zendesk_
+**Data Warehouse and Version Control:** _Snowflake, Git, DataGrip, Jira, DBT_\
+**Predictive Modeling:** _Statistical Inference, Regression, Neural Networks, Time Series, Machine Learning,_\
+_Clustering, Optimization, Risk Simulation, XGBoost, Random Forest_\
+**Business Systems:** _Salesforce, NetSuite, Bizible, Pendo, Zendesk_\
 **BI Tools:** _DOMO, Tableau_
 
 ### EDUCATION												
