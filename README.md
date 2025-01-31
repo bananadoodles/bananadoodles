@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Erin and I am a seasoned data professional with over 5 years of experience wrangling unruly datasets and convincing them to behave. Proven track record of solving complex business puzzles—sometimes with statistics, sometimes with sheer stubbornness. Adept at transforming chaotic data into insights so clear even your grandma would understand. Passionate about making data less scary, empowering stakeholders to make decisions that probably won’t break the company, and presenting findings in a way that keeps even the most sleep-deprived executives awake. Can turn numbers into narratives and spreadsheets into strategic gold—just don’t ask about my caffeine consumption.
+My name is Erin and I am a seasoned data professional with over 5 years of experience wrangling unruly datasets and convincing them to behave. Proven track record of solving complex business puzzles—sometimes with statistics, sometimes with sheer stubbornness. Adept at transforming chaotic data into insights so clear even your grandma would understand. Passionate about making data less scary, empowering stakeholders to make decisions that probably won’t break the company, and presenting findings in a way that keeps even the most sleep-deprived executives awake.
 
 ### Skills
 **Programming Languages:** R, Python, SQL
