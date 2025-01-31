@@ -17,7 +17,7 @@ B.S., Business Administration: NC State University,(_summa cum laude_) **Dec 201
 A.S., Dental Hygiene: Wayne Community College (_yes you read that right_) **May 2008** 
 
 ### Projects
-🤖Machine Learning
+🤖[Deep Learning (CNN)](https://github.com/bananadoodles/Side_Projects/tree/main)
 🐍[Logistic Regression](https://github.com/bananadoodles/IAA/blob/main/LR_HW_3_Erin.Rmd)
 ⏳[Time Series](https://github.com/bananadoodles/IAA/blob/main/TS2_FINAL_PROJECT.Rmd)
 🪓[Data Mining](https://github.com/bananadoodles/IAA/blob/main/DataMiningHW2.Rmd)
